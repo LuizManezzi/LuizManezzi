@@ -2,7 +2,31 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luiz Felipe Moraes Manezzi, tenho 26 anos e sou natural de Araçatuba, interior de São Paulo. Concluí o ensino médio e me formei no IFSEULDEMINAS no curso técnico em informática, também possuo certificações como Técnico em Hardware, Analista de Suporte Técnico, HTML, CSS e JavaScript, PLSQL, Python, C/C++, C#, Ethical Hacker (CISCO), Linux Fundamentals (CISCO) e ShellScript. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Sou um entusiasta da tecnologia, gosto muito de ler e me expor a novos desafios.
+Me chamo Luiz Felipe Moraes Manezzi, tenho 26 anos e sou natural de Araçatuba, interior de São Paulo. Sou um entusiasta da tecnologia, sempre em busca de novos desafios. Com uma sólida formação técnica e experiência prática, estou em constante aprendizado. Atualmente, curso Análise e Desenvolvimento de Sistemas na Unicesumar e tenho várias certificações que reforçam minha paixão por tecnologia.
+
+Formação Acadêmica:
+
+Ensino Médio: Concluído com êxito.
+Curso Técnico em Informática: IFSEULDEMINAS
+Graduação: Cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
+Certificações:
+
+Técnico em Hardware
+Analista de Suporte Técnico
+HTML, CSS, JavaScript
+PLSQL, Python, C/C++, C#
+Ethical Hacker (CISCO)
+Linux Fundamentals (CISCO)
+ShellScript
+Projetos Notáveis:
+
+Desenvolvimento de um sistema de gerenciamento de estoque utilizando C# e SQL.
+Contribuição para um projeto de código aberto de Python voltado para automação de processos.
+Criação de um laboratório de Ethical Hacking para simulação e aprendizagem de ataques e defesas cibernéticas.
+Estou sempre em busca de aprender mais sobre tecnologias emergentes e como posso aplicar essas inovações para criar soluções eficientes e seguras.
+
+Vamos crescer juntos!
+Entre em contato para colaborações, estágios ou oportunidades.
 
 <p align="left"> 
     <a href="https://github.com/LuizManezzi?tab=repositories&sort=stargazers">
