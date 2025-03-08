@@ -4,19 +4,19 @@
 
 Me chamo Luiz Felipe Moraes Manezzi, tenho 26 anos e sou natural de Araçatuba, interior de São Paulo. Sou um entusiasta da tecnologia, sempre em busca de novos desafios. Com uma sólida formação técnica e experiência prática, estou em constante aprendizado. Atualmente, curso Análise e Desenvolvimento de Sistemas na Unicesumar e tenho várias certificações que reforçam minha paixão por tecnologia.
 
-Formação Acadêmica:
+<b>Formação Acadêmica:</b>
 
 Ensino Médio: Concluído com êxito.<br>
 Curso Técnico em Informática: IFSEULDEMINAS<br>
 Graduação: Cursando Análise e Desenvolvimento de Sistemas na Unicesumar.<br>
 
-Certificações:
+<b>Certificações:</b>
 Técnico em Hardware,
 Analista de Suporte Técnico,
 HTML, CSS, JavaScript,
 PLSQL, Python, C/C++, C#,
 Ethical Hacker (CISCO),
-Linux Fundamentals (CISCO),
+Linux Fundamentals (CISCO) e
 ShellScript.
 
 Projetos Notáveis:<br>
