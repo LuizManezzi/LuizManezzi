@@ -2,37 +2,61 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luiz Felipe Moraes Manezzi, tenho 26 anos e sou natural de Araçatuba, interior de São Paulo. Concluí o ensino médio e me formei no IFSEULDEMINAS no curso técnico em informática, também possuo certificações com Técnico em Hardware, Analista de Suporte Técnico, HTML, CSS e JavaScript, PLSQL, Python, Ethical Hacker (CISCO), Linux Fundamentals (CISCO) e ShellScript. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Sou um entusiasta da tecnologia, gosto muito de ler e me expor a novos desafios.
+Me chamo Luiz Felipe Moraes Manezzi, tenho 26 anos e sou natural de Araçatuba, interior de São Paulo. Concluí o ensino médio e me formei no IFSEULDEMINAS no curso técnico em informática, também possuo certificações como Técnico em Hardware, Analista de Suporte Técnico, HTML, CSS e JavaScript, PLSQL, Python, C/C++, C#, Ethical Hacker (CISCO), Linux Fundamentals (CISCO) e ShellScript. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Sou um entusiasta da tecnologia, gosto muito de ler e me expor a novos desafios.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+<p align="left"> 
+    <a href="https://github.com/LuizManezzi?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/LuizManezzi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/LuizManezzi?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LuizManezzi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.instagram.com/luiz.moraesm" target="_blank">
+    <img 
+        alt="Instagram" 
+        title="Me siga no Instagram"
+        src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+    />
+    </a>
+    <a href="https://www.linkedin.com/in/luiz-felipe-moraes-manezzi-437869161/" target="_blank">
+    <img 
+        alt="LinkedIn" 
+        title="Me siga no LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    />
+    </a>
+    <a href="mailto:felipe_moraess@hotmail.com">
+    <img 
+        alt="Email" 
+        title="Entre em contato por e-mail"
+        src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    />
+    </a>
+    <a href="https://www.reddit.com/user/SeuUsuario" target="_blank">
+    <img 
+        alt="Reddit" 
+        title="Me siga no Reddit"
+        src="https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" 
+    />
+    </a>
+    <a href="https://medium.com/@SeuUsuario" target="_blank">
+    <img 
+        alt="Medium" 
+        title="Me siga no Medium"
+        src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" 
+    />
+    </a>
+
+
+
 </p>
 
 ---
@@ -81,35 +105,11 @@ Me chamo Luiz Felipe Moraes Manezzi, tenho 26 anos e sou natural de Araçatuba, 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
     align="left" 
@@ -151,6 +151,48 @@ Me chamo Luiz Felipe Moraes Manezzi, tenho 26 anos e sou natural de Araçatuba, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="PL/SQL" 
+    title="PL/SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Shell Script" 
+    title="Shell Script"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+
 
 <br/>
 <br/>
@@ -163,14 +205,14 @@ Me chamo Luiz Felipe Moraes Manezzi, tenho 26 anos e sou natural de Araçatuba, 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LuizManezzi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizManezzi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
