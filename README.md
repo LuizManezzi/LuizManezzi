@@ -19,9 +19,9 @@ Ethical Hacker (CISCO),
 Linux Fundamentals (CISCO) e
 ShellScript.
 
-Projetos Notáveis:<br>
+<b>Projetos Notáveis:</b><br>
 
-Projetos de código aberto de Python voltado para automação de processos de Pentest (https://github.com/LuizManezzi/tools_fuzzer).
+Projeto de código aberto de Python voltado para automação de processos de Pentest (https://github.com/LuizManezzi/tools_fuzzer).
 Criação de um laboratório de Ethical Hacking para simulação e aprendizagem de ataques e defesas cibernéticas.
 Estou sempre em busca de aprender mais sobre tecnologias emergentes e como posso aplicar essas inovações para criar soluções eficientes e seguras.
 
