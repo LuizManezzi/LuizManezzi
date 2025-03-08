@@ -78,7 +78,20 @@ Entre em contato para colaborações, estágios ou oportunidades.
         src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" 
     />
     </a>
-
+    <a href="https://tryhackme.com/p/LuizManezzi" target="_blank">
+    <img 
+        alt="TryHackMe" 
+        title="Me siga no TryHackMe"
+        src="https://img.shields.io/badge/TryHackMe-%230A0A0A?style=for-the-badge&logo=tryhackme&logoColor=white" 
+    />
+    </a>
+    <a href="https://app.hackthebox.com/profile/HTB-E4D8A3618B" target="_blank">
+    <img 
+        alt="Hack The Box" 
+        title="Me siga no Hack The Box"
+        src="https://img.shields.io/badge/Hack_The_Box-%23000000?style=for-the-badge&logo=hackthebox&logoColor=white" 
+    />
+    </a>
 
 
 </p>
