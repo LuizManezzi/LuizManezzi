@@ -7,7 +7,7 @@ Me chamo Luiz Felipe Moraes Manezzi, tenho 26 anos e sou natural de Araçatuba, 
 <b>Formação Acadêmica:</b>
 
 Ensino Médio: Concluído com êxito.<br>
-Curso Técnico em Informática: IFSEULDEMINAS<br>
+Curso Técnico em Informática: IFSULDEMINAS<br>
 Graduação: Cursando Análise e Desenvolvimento de Sistemas na Unicesumar.<br>
 
 <b>Certificações:</b>
