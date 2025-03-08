@@ -6,22 +6,22 @@ Me chamo Luiz Felipe Moraes Manezzi, tenho 26 anos e sou natural de Araçatuba, 
 
 Formação Acadêmica:
 
-Ensino Médio: Concluído com êxito.
-Curso Técnico em Informática: IFSEULDEMINAS
-Graduação: Cursando Análise e Desenvolvimento de Sistemas na Unicesumar.
+Ensino Médio: Concluído com êxito.<br>
+Curso Técnico em Informática: IFSEULDEMINAS<br>
+Graduação: Cursando Análise e Desenvolvimento de Sistemas na Unicesumar.<br>
+
 Certificações:
+Técnico em Hardware,
+Analista de Suporte Técnico,
+HTML, CSS, JavaScript,
+PLSQL, Python, C/C++, C#,
+Ethical Hacker (CISCO),
+Linux Fundamentals (CISCO),
+ShellScript.
 
-Técnico em Hardware
-Analista de Suporte Técnico
-HTML, CSS, JavaScript
-PLSQL, Python, C/C++, C#
-Ethical Hacker (CISCO)
-Linux Fundamentals (CISCO)
-ShellScript
-Projetos Notáveis:
+Projetos Notáveis:<br>
 
-Desenvolvimento de um sistema de gerenciamento de estoque utilizando C# e SQL.
-Contribuição para um projeto de código aberto de Python voltado para automação de processos.
+Projetos de código aberto de Python voltado para automação de processos de Pentest (https://github.com/LuizManezzi/tools_fuzzer).
 Criação de um laboratório de Ethical Hacking para simulação e aprendizagem de ataques e defesas cibernéticas.
 Estou sempre em busca de aprender mais sobre tecnologias emergentes e como posso aplicar essas inovações para criar soluções eficientes e seguras.
 
