@@ -71,7 +71,7 @@ Entre em contato para colaborações, estágios ou oportunidades.
         src="https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" 
     />
     </a>
-    <a href="https://medium.com/@SeuUsuario" target="_blank">
+    <a href="https://medium.com/@luizmanezzi" target="_blank">
     <img 
         alt="Medium" 
         title="Me siga no Medium"
