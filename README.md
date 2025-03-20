@@ -90,7 +90,10 @@ Entre em contato para colaborações, estágios ou oportunidades.
 </p>
 
 ---
-<p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3380809" style='border:none;'></iframe></p>
+<p align="left"> 
+    <img src="https://tryhackme-badges.s3.amazonaws.com/CHARUT0.png" alt="Your Image Badge" />
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
