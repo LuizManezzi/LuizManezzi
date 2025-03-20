@@ -90,9 +90,7 @@ Entre em contato para colaborações, estágios ou oportunidades.
 </p>
 
 ---
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3380809" style='border:none;'></iframe>
-
+<p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3380809" style='border:none;'></iframe></p>
 ---
 
 ### 🤖 Linguagens e Tecnologias
